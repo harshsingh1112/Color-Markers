@@ -12,7 +12,7 @@ CSS Colored Markers is a visually engaging project designed to demonstrate the u
   - Utilizes RGB, HEX, and HSL color formats for diverse gradient styles.
   - Smooth transitions between colors for a vibrant look.
 
-** Shadow Effects:**
+**Shadow Effects:**
   - Adds glowing shadow highlights to each marker, enhancing depth and visual appeal.
   - Responsive Layout:
   - Markers are centered with auto margins, maintaining structure across devices.
