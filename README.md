@@ -25,7 +25,10 @@ CSS Colored Markers is a visually engaging project designed to demonstrate the u
  - Anyone interested in fun and engaging CSS projects.
 
 
+
  **Preview:**
+
+ 
  <img width="367" alt="Screenshot 2024-12-11 at 8 04 05 PM" src="https://github.com/user-attachments/assets/6955624d-ec72-4b38-add5-428c47d5bbf3" />
 
  Feel free to fork and customize the colors, gradients, or layout to create your unique marker designs!
