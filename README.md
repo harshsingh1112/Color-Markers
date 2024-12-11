@@ -2,7 +2,8 @@
 CSS Colored Markers is a visually engaging project designed to demonstrate the use of CSS for creating colorful, stylized markers. This project combines HTML and CSS to showcase creative gradient backgrounds, shadow effects, and dynamic styling.
 
 **Features:**
- ** Marker Design:**
+
+ **Marker Design:**
    - Three distinct markers: red, green, and blue.
    - Each marker consists of a cap and a sleeve, styled with inline-block for layout flexibility.
    - Realistic gradients and shadows for a polished 3D effect.
